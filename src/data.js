@@ -11,7 +11,7 @@ export const profile = {
   skills: {
     Languages: ['Python', 'Java', 'C', 'JavaScript', 'SQL'],
     Frameworks: ['React', 'Node.js', 'Flask', 'PyTorch'],
-    Tools: ['Git', 'Linux', 'Docker', 'AWS'],
+    Tools: ['Git', 'Linux', 'Docker'],
   },
   resume: '/resume.pdf',
 }
