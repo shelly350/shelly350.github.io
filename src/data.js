@@ -13,7 +13,6 @@ export const profile = {
     Frameworks: ['React', 'Node.js', 'Flask', 'PyTorch'],
     Tools: ['Git', 'Linux', 'Docker'],
   },
-  resume: '/resume.pdf',
 }
 
 export const projects = [
