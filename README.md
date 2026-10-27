@@ -15,7 +15,7 @@ Then open http://localhost:5173.
 
 ## Update content
 
-Most content (bio, skills, projects, photos, links) lives in `src/data.js`. Photos and the resume go in `public/`.
+Most content (bio, skills, projects, photos, links) lives in `src/data.js`. Photos go in `public/photos/`.
 
 ## Deploy
 

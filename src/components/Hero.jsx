@@ -29,9 +29,6 @@ export default function Hero() {
       <p className="tagline">{profile.tagline}</p>
 
       <div className="buttons">
-        <a className="btn primary" href={profile.resume} target="_blank" rel="noreferrer">
-          Resume
-        </a>
         {github && (
           <a className="btn" href={github.url} target="_blank" rel="noreferrer">
             GitHub
